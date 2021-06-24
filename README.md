@@ -16,7 +16,7 @@
 
 ## Caveats
 
-- At the time of writing Jina Hub hasn't yet been released for Jina 2.0. 
+- At the time of writing Jina Hub hasn't yet been released for Jina 2.0. So anything with `jinahub://foobarbaz` won't work just yet.
 
 ## Sacrifices
 
