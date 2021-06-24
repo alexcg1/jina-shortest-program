@@ -1,7 +1,7 @@
 # The shortest (usable) Jina program
 
-- Uses Jina 2.0
-- Uses minimal lines of code to actually achieve something
+- Uses [Jina 2.0](https://github.com/jina-ai/jina/)
+- Uses minimal lines of code to actually achieve something USEFUL (i.e. index data then let user query it)
 
 ## What is code?
 
@@ -16,7 +16,7 @@
 
 ## Caveats
 
-- At the time of writing Jina Hub hasn't yet been released for Jina 2.0. So anything with `jinahub://foobarbaz` won't work just yet.
+- At the time of writing [Jina Hub](https://hub.jina.ai) hasn't yet been released for Jina 2.0. So anything with `jinahub://foobarbaz` won't work just yet.
 
 ## Sacrifices
 
@@ -37,3 +37,7 @@ Why don't I do these? The existing sacrifices were bad enough. The above two jus
 ## Yes, but...
 
 - "You're relying on other people's code!" - Duh. Jina Hub Executors are other people's code. Jina is other people's code. So is Python. Short of starting from scratch [with my own damn logic gates](https://www.nand2tetris.org/) I have to use other people's code, as does everyone.
+
+## Warning
+
+- Don't run [Black](https://github.com/psf/black/blob/master/plugin/black.vim) on this code. It will add line breaks, etc.
