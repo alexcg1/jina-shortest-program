@@ -5,10 +5,10 @@
 
 ## WARNING
 
-**[`shortest.py`](./shortest.py) is potentially unsafe**. This is because in order to cram into one line we have to use some dodgy hackery, namely the rather-dangerous `exec()` function. This could mean a user gives it malicious input like:
+**[`shortest.py`](./shortest.py) is potentially unsafe**. This is because in order to cram everything into one line we have to use some dodgy hackery, namely [the rather dangerous `exec()` function](https://blog.finxter.com/python-exec/). This could mean a user gives it malicious input like:
 
 ```
-import os\nos.system('rm -rf ~')
+import os; os.system('rm -rf ~')
 ```
 
 [`sensible.py`](./sensible.py) is a much more sensibly-written (albeit longer) version that is both safe and easy to understand
