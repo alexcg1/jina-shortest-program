@@ -1,0 +1,859 @@
+question_id,title,question,answer_id,answer,answer_type,wrong_answer,wrong_answer_type,url,source
+14057,Can pets catch the cold?,"Last night I was drying my cat with a towel after shenanigans in the rain and she sneezed! 
+
+Questions
+
+
+Can cats/dogs/hamsters or other pets catch the cold? 
+How quickly do they recover?
+
+",14083,"Yes they can. The viruses that cause a cold include rhinoviruses (up to 80%), coronaviruses and influenza (together accounting for much of the remaining 20%) and a small percentage of adenoviruses. When discussing cross species transfer, influenza is the most important to discuss as it is a fairly common cause of the ""common cold"". 
+
+Influenza A has humans, pigs, bird and horses as its host. Different influenza strains have different hosts. Influenza can recombine if two strains infect the same host (antigenic shift) and also mutate (antigenic drift). With a combination of these influenza can and has numerous times crossed the species barrier which has caused the major flu pandemics as well as swine and avian flu. It's this reservoir that makes these viruses so hard to eradicate. When we are the only host such as in polio virus, it is a lot easier. Pigs don't adhere to national flu guidelines. 
+
+Comparing recovery times, all mammals are roughly similar although due to our slightly more evolved immune system as well as social factors of knowing what to do when we are ill we recovery very slightly earlier.
+",Accepted,"That is a Priapulid worm, also known as a ""penis worm"". In its own phylum, Priapulida. https://en.wikipedia.org/wiki/Priapulida
+",Random,biology.stackexchange.com,biomedical
+89709,Is the Common Cold an Immune Overreaction?,"It's my understanding that the majority of symptoms associated with the common cold (runny nose, inflamed sinus, slight fever) are essentially the result of the immune system's response.
+
+I've never heard of someone dying of the common cold (unlike influenza), even in immune compromised people. As such, what damage would the cold virus inflict if there was no immune response? Would it be catastrophic?
+",89712,"Can someone die of the common cold?
+
+No. 
+The common cold is a clinical syndrome restricted to upper respiratory tract involvement. By clinical syndrome, I mean it is the constellation of symptoms (rather than the consequence of a specific pathogen). As you mention, these symptoms are the result of the immune response, rather than tissue damage or compromised function as a direct effect of a pathogen or its toxin (e.g., the watery diarrhea in cholera).  
+
+As defined (see, e.g., Cecil Medicine Ch. 369), this clinical syndrome cannot lead to death. 
+
+
+  The common cold is an upper respiratory syndrome of rhinorrhea and nasal obstruction, frequently accompanied by sore throat, sneezing, and cough.
+
+
+Can the viruses that cause the common cold cause death?
+
+Yes. Many viruses that cause the common cold also cause other clinical syndromes that can cause death. This occurs when viral replication moves to the lower respiratory tract. As an example, influenza viruses are responsible for 25 - 30% of common colds (see Bennett, Principles and Practice of Infectious Disease, Ch.58). When it moves beyond the upper respiratory tract, influenza is responsible for substantial mortality. Other virus families that are responsible for both a common cold syndrome and lower respiratory tract syndrome in immunocompetent individuals (e.g., bronchiolitis, pneumonia) include parainfluenza virus, metapneumovirus, adenovirus, and (rarely) coronavirus. Rhinovirus, responsible for 40-50% of common cold cases, is uniquely unsuited to lower respiratory tract involvement, because of its preference for the cooler environment of the nasal mucosa, replicating best at 33 C (Murray Medical Microbiology, Ch 56). However, in individuals with Severe Combined Immunodeficiency (SCID), lower respiratory tract involvement does occur. There are a number of case series reporting death due to lower respiratory rhinovirus. This is an example.
+
+Can the common cold lead to serious illnesses other than lower respiratory tract involvement?
+
+Yes. Other morbidity can occur as a result of the immune response that produces the common cold syndrome. Rhinorrhea and congestion can progress to a viral rhinosinusitis, a separate syndrome with its own complications, or a secondary bacterial infection, which can lead to bacterial sinus involvement and/or bacterial lower respiratory tract infection. Otitis media is another common complication, especially in children, and has its own potential complications. Asthma (and, generally speaking, most lung diseases) can also be exacerbated by what would otherwise be a simple common cold and predisposes to lower respiratory tract involvement. Asthma does deserve special mention, because rhinovirus associated exacerbations can be fatal, but this is a consequence of asthma rather than a common cold syndrome. Further discussion of these syndromes are beyond the scope of the question, but are discussed briefly in the chapters referenced above.
+",Accepted,"The dash (""-"") does not represent a negative charge or an electron.  It simply indicates that the group of atoms ( -OH or -H ) are attached (covalently bonded) to other atoms in a molecule.  So they are saying one monomer (molecule) contributes OH to the reaction and the other H.  (A charge is indicated by a trailing superscript minus sign.)
+",Random,biology.stackexchange.com,biomedical
+89886,Air purifier agains bacteria and viruses?,"We would buy a mobile air purifier in our home. 
+
+Against the smoke of the city, etc. 
+
+It would have a HEPA + activated carbon filter. They are marketing it as: 
+
+
+  ""filtration process captures 99.97% of airborne particles down to 0.1
+  micron in size.""
+
+
+and having also: 
+
+
+  ""encapsulated ion particle charging chamber""
+
+
+But the question: 
+
+Would the mentioned filter+ion charger also help cleaning the air from bacteria and viruses? 
+
+Ex.: ""Coronavirus/2019-nCoV"" is about ""Coronavirus virions are spherical with diameters of approximately 125 nm"" - but I just Googled it, not from an official source. And 0.1 micron is 100 nm. 
+
+UPDATE: would it be more effective, if it would have UV-C light in the air purifier? 
+",89887,"The aforementioned filter will filter microbes
+
+Yes, it is routine practice to use microfiltration in labs to sterilize solutions from microbes. 0.2 micron filters will remove all typically-found bacteria most of the time, except for the odd bacteria here and there, though this is uncommon. 0.1 micron filters certainly remove all stray bacteria that may make it through upon a single 0.2 micrometer filtration. Here is a nice read on the appropriateness of 0.2 and 0.1 microfilters, which simply states that 0.2 micro filters are usually more appropriate since they additionally guarantee a better flow rate.
+
+The aforementioned filter will NOT ensure filtration of viruses
+
+These filters are not used, suitable nor effective for viruses, however. You ask specifically about the coronavirus. From a 2015 study:
+
+
+  Coronaviruses are members of the Coronaviridae group and contain a
+  single-stranded, positive-sense RNA genome surrounded by a corona-like
+  helical envelope (Ryan 1994). The SARS virus genome consists of 29,751
+  base pairs. Approximately 41% of the genome is GC base pairs while 59%
+  is TA base pairs. Coronaviruses have a size range of 0.08-0.15
+  microns; with a mean size of 0.11 microns (see Figure 1).
+
+
+This means 0.1 micron filters will not protect you from these viruses. They may help you reduce viral count in the air, which may of course be sufficient, but this would not be an adequate measure in a biological safety facility.
+
+The cost-effectiveness of commercial air-purifiers for biosafety vs. pollution
+
+On a advice-related note: I do not think air-purifiers are going to help you in a cost-effective manner to avoid viruses (e.g. Rhinoviruses that cause the common cold, for instance), lest you stay at home all the time. You expose yourself outdoors, and carry plenty of viruses indoors on your body and in your respiratory tract; these will bypass your filtration system on the daily. Being healthy and lucky enough to avoid exposure to viruses outside the house is still the best bet. I think an air purifier has a greater potential to help with smog and urban pollution, those particles are typically larger than the diameter of most microbes.
+",Accepted,"It's a bleu ray gelyfish, don't tauch is because it's toxic where did oyu found it from did you ofund it from iwhere w
+",Random,biology.stackexchange.com,biomedical
+89929,Why are bats the source of dangerous coronavirus pandemics?,"Why do coronaviruses come from bats?
+
+I mean, why precisely coronaviruses and not (for instance) herpesviruses?
+It looks like bats host more zoonotic viruses (per species) than rodents, although they don't develop any sign of disease.
+
+The article above says that rodents host more zoonotic viruses than bats overall (68 against 61), but at the same time most of the latest pandemics originated from bats.
+
+It also seems that bats could be involved in the maintenance of ebola viruses.
+
+My question is: why did these major pandemics originate from bats and not from rodents, although rodents host more zoonotic viruses overall?
+
+We should also take into consideration that human-rodent interaction is usually more likely than human-bat interaction, except for people who consume bats (like Chinese people; this would (partially) explain why both SARS and 2019-nCoV developed in China).
+",89944,"
+  The preponderance of links between bat and human pathogens has led to a debate about whether bats disproportionately contribute to emerging viral infections crossing the species barrier into humans (26–30). Given the diversity of the Chiroptera order (Figure ​(Figure1),1), we may simply see more bat viruses because there are so many (>1,300) species of bats (31). However, even when accounting for the fact that they make up ~20% of extant terrestrial mammals, bats are overrepresented as reservoir hosts of pathogens with a high potential for spilling into human populations (32, 33). In fact, no known predictors that have been described to impact the likelihood of crossing the species barrier, including reservoir host ecology, phylogenetic relatedness to humans or frequency of reservoir-human contact, explain this pattern (32). Thus, why bats are such a frequent source of pathogenic human viruses remains a tantalizing mystery.
+
+
+--Going to Bat(s) for Studies of Disease Tolerance
+
+Other references that debate whether bats are special, generally conclude that they might somehow be, and argue about causes, include
+
+
+Brook CE, Dobson AP. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. Trends Microbiol. (2015) 23:172–80. This may be the best of the group, going into more detail and including more recent data
+Dobson AP. Virology. What links bats to emerging infectious diseases? Science (2005) 310:628–9. 
+Wang LF, Walker PJ, Poon LL. Mass extinctions, biodiversity and mitochondrial function: are bats ‘special’ as reservoirs for emerging viruses? Curr Opin Virol. (2011) 1:649–57. 
+Olival K, Epstein JH, Wang LF, Field HE, Daszak P. Are bats exceptional viral reservoirs? In: Aguirre AA, Ostfeld R, Daszak P, editors. editors. New Directions in Conservation Medicine. Oxford, UK: Oxford University Press; (2012). p. 195–212. 
+Luis AD, Hayman DT, O'Shea TJ, Cryan PM, Gilbert AT, Pulliam JR, et al. . A comparison of bats and rodents as reservoirs of zoonotic viruses: are bats special? Proc Biol Sci. (2013) 280:20122753. 
+
+",Accepted,"First of, depending on your definition of life (which is a matter of philosophy, not science) you may even accept as living something that has not heritable information passed onto 'offspring'. But let's consider only those hypothetical life forms who would have heritable information.
+
+Of course, it is possible for different life forms to use some other mean of transferring heritable information. In fact, there are life forms based on RNA instead of DNA on earth (see RNA virus) and it is even thought by many that life first evolved using RNA and not DNA (see RNA world hypothesis).
+
+To go further in this discussion you should have a look at wikipedia > Hypothetical types of biochemistry (I got the link from @RoniSaiba 's answer).
+",Random,biology.stackexchange.com,biomedical
+89938,How do bats survive their own coronaviruses?,"How do bats survive their own coronaviruses (without showing any symptoms)?
+
+Or, more generically, how can viruses keep reproducing inside healthy carriers without inducing any pathogenic effect?
+
+Are coronaviruses able to replicate themselves without harming bats, or maybe these viruses are just latent like herpesviruses in humans?
+
+
+
+Related question: Why are bats the source of dangerous coronavirus pandemics?
+",89975,"It's common for the reservoir host of a zoonotic virus to be tolerant of it. MERS coronavirus appears to cause mild or no disease in dromedary camels ( source ), but kills about 35% of confirmed infected humans. ( CDC ) Sin Nombre hantavirus seems to be mild in the deer mice that spread it, despite ~36% fatality rate in humans. ( source ) Mosquitoes are efficient vectors for flaviviruses like dengue and zika in part because they have adaptations we lack that protect them from the virus. ( source ) Also, human communities are host to several viruses: about 90% of people have a herpesvirus infection ( source ) with similar numbers for polyomaviruses. ( source ) Very few of these infected individuals show symptoms.
+The wide prevalence of these asymptomatic infections shows that the virus is successful when it can replicate while the host remains healthy. In general, virus reproduction kills cells, and when cells die faster than the host can replace them, this causes symptoms up to and including death. The host's immune system supresses virus activity, and a virus that can't evolve ways to avoid immune supression will be wiped out. But if the virus gets so good at avoiding the immune system, it will kill the host, which is bad for the virus. So both host and virus tend to evolve to a point where the immune system wins most, but not all of the time. There is a lot more to it, but I'll stop here.
+
+In conclusion, we don't really need to look for special properties of bats to explain their tolerance of coronaviruses, even though, as iayork points out, there are reasons to expect bats might be more resistant.
+",Accepted,"I think that ""career in synthetic biology"" and ""involved in planning"" both express very vague ideas. There are significant differences in what you will be able to do with a Bachelor's, Master's or PhD, depending on what exactly you end up doing. 
+
+I entered a PhD program in biology for no better reason than that I felt awed and fascinated with science and had done really well in science subjects as an undergrad. Grad school seemed like a natural extension of that effort. 
+
+In retrospect, my motivations for pursuing a PhD were horribly naïve and easily the greatest challenge that I faced as a grad student was that of defining why I was there and where I wanted to go with my degree. So, to address the issue of vagueness in your question, my first piece of advice is to have a firmer idea of what you want to do. Plans will change, but simply having a plan (a real plan) might provide an anchor when you need one.
+
+As to what you can do with the various degrees, I can't precisely answer your question, the way you've phrased it, but I can give you a general idea. 
+
+A bachelor's degree in biology will not get you far in a lab setting. Among the lab techs I've worked with, even most of them have master's degrees. From what I've seen, this holds just as true for academia as for industry. 
+
+It's a little unclear what you mean by ""planning"", but most of the admin that I work with, who are involved in planning our various projects also hold advanced degrees, typically in science, business or public health. I see a strong representation among the management at my institution (Columbia University) of PhD scientists, who left the bench for something less life-consuming, while still wanting to have a hand in research. These people are frequently grants managers or program directors. 
+
+As I mentioned earlier, the lab techs around me generally hold master's degrees. When I was considering quitting my PhD program after the master's component, a friend in industry advised me against it, if I ever thought that I might seek work in industry. The picture that he painted was that in industry, a master's degree makes you overqualified for many of the tasks that you can expect to be hired for, but underqualified for significant future career advancement. 
+
+Obviously, you shouldn't feel limited to academic vs industrial research tracks. There are plenty of other options out there. Maybe look up people's blogs that involve synthetic biology or whatever other topics of interest you might have to get a wider view of what people who have expertise in the subject are doing. 
+
+Good luck!
+",Random,biology.stackexchange.com,biomedical
+89958,Can Coronaviridae mutate into something as dangerous as Flioviridae?,"Can coronaviruses mutate to an extent to get as dangerous as fliovirusues such as Marburg viruses, Ravn or Ebola Zaire? 
+",90540,"'Dangerous' is quite a subjective term, and can be defined in different ways.
+
+Viruses vary in their pathogenicity, which is essentially the ability of the virus to cause a disease in a single individual. This can influence other factors, such as the case fatality rate, which is the proportion of people who die from the disease once they have contracted it. For example, the Ebola virus has a very high case fatality rate of up to 90%.
+
+However, those aren't the only ways in which you could define 'dangerous'. We might also consider the total number of people that the virus can kill. This often isn't a linear relationship with the case fatality rate. Often, viruses with a high case fatality rate 'burn out' before than can inflict a global pandemic, because people die before they can spread the disease on to others. Vice versa, viruses with a relatively low case fatality rate, such as the Spanish Flu (2-3%) can be extremely 'dangerous' and kill millions of people. 
+
+But there is no hard and fast rule, as the propensity of a virus to cause a global pandemic is influenced by many, many other factors. 
+
+So to answer your question: is it possible for the Covid-19 to mutate into something as dangerous as Ebola? Well, if we are thinking about it's pathogenicity - Influenza A H5N1 (bird flu) had a case fatality rate of about 60%, which is pretty high for a flu virus. For context, the seasonal flu which has a case fatality rate of about 0.1%. I'm not an expert in Virology, so it would be great if someone with more knowledge could confirm this, but it seems very unlikely that the Covid-19 virus could acquire mutations to the degree where it would kill as high as 90% of the people who acquire it, like Ebola does. Ebola is a hemorrhagic virus, which is a totally different mechanism of pathogenicity to the Coronavirus family.  
+
+It's plausible that Covid-19 could obtain mutations which allow it to transfer more quickly between humans. For example, we know that the Spanish Flu acquired mutations in hemagglutinin subtype which allowed it to be more transmissible between humans. Generally, Coronaviruses have relatively lower R0 rates than other disease (~2/3 compared to Measles which is 12-18). The total number of people killed by the Ebola outbreak was about 11,000. Covid-19 has already killed ~3000 (although the exact figure is hard to quantify), so it seems like on the global level, Covid-19 will be more dangerous than Ebola, if we consider the total number of people killed. 
+",Accepted,"You need to define “gene” for your question to make sense. In humans, each individual has roughly 100 novel mutations (that neither parent had) (Human mutation rate revealed). However, those are not necessarily “new genes”, since many occur in non-functional DNA, even those that occur in functional regions may not alter any function, and even those that alter function may not be part of a gene, depending on your personal definition. 
+",Random,biology.stackexchange.com,biomedical
+89960,Evolution history of virus tracing,"How do biologist trace evolutionary history of virus, is there any article on this issue,
+e.g. how scientist got to know that coronavirus evolved from bat or camel or pig?
+",89962,"The identification is done by sequencing virus samples and comparing them to reference genomes of viruses. By doing this, you can analyze how closely related an unknown virus is to the references. 
+
+For the nCoV this method shows it is 96% identical with a known bat coronavirus (see reference 1 for details). 
+As viruses accumulate mutations due to errors during replication, this method is also used to generate genetic trees of the virus to analyze how it spreads, map routes of infection and also if the virus has been introduced to humans more than once (reference 2 has a nice overview on this topic).
+
+The problem here is: You need to have some known references for comparision, if you have a completely new virus which has never emerged before, this will not help. For this reason there are projects ongoing which collect samples to identify yet unknown viruses (see reference 3)
+
+
+Discovery of a novel coronavirus associated with the recent
+pneumonia outbreak in humans and its potential bat origin
+DNA sleuths read the coronavirus genome, tracing its origins and
+looking for dangerous mutations
+Virome analysis for identification of novel mammalian viruses in
+bats from Southeast China
+
+",Accepted,"According to RADIOACTIVITY IN CHEMICAL FERTILIZERS by Milica M. Rajačić, Nataša B. Sarap, Marija M. Janković, Jelena D. Nikolić, Dragana J. Todorović and Gordana K. Pantelić at the Institute for Nuclear Sciences ""Vinča"", University of Belgrade, Belgrade, Serbia, and the relatively short half-life of polonium, it appears that primordial metals are the only hazard in fertilizers:
+
+
+  Natural radioactivity results mainly from primordial radionuclides,
+  such as 40K and the radionuclides from the 232Th, 238U and 235U series
+  and their decay products. Terrestrial radioactivity and exposure due
+  to gamma radiation depend primarily on the geological conditions and
+  appear in different quantities in the soils of each region in the
+  world. 1 [...]
+  
+  Fertilizers usually employed in the agriculture contain traces of
+  heavy metals and relatively high concentrations of naturally occurring
+  radionuclides. Phosphate containing fertilizers have been used
+  worldwide to increase the quantities of the micronutrients, which are
+  being continuously taken off from the soil due to farming activities.
+  At the same time, the use of such fertilizers is the main
+  anthropogenic source of the uranium input in the environment (about 73
+  % of the total input of uranium) 2. [...]
+  
+  A total of 140 samples of different types of fertilizers were measured
+  for their radioactivity content using gamma spectrometry technique in
+  order to assess the implications of extended use of fertilizers on the
+  concentrations of natural radionuclides in cultivated soil. The
+  obtained data show that the activity concentration of naturally
+  occurring radionuclides in fertilizer samples were 87 Bq/kg, 4860
+  Bq/kg and 220 Bq/kg for 226Ra, 40K and 238U, respectively, which
+  exceeds the activity concentration in soil by an order of magnitude.
+  As it was shown in the paper, the use of fertilizers has a negligible
+  effect on Raeq and D in soil due to dilution of fertilizer used on the
+  large amounts of cultivated soil. However, the long term application
+  of these fertilizers can have the effect of an accumulation of
+  radioactivity in soils that can be harmful for the health of farmers
+  and consumers of the products. [...]
+  
+  1: Akhtar N. Radionuclide pollution due to fertilizer use in some
+  saline soils of the Punjab and their potential risk assessment on
+  human health. Department of Physics Bahauddin Zakariya University
+  Multan, Pakistan, 2006. 2: Stojanović M, Stevanović D, Milojković J,
+  Mihajlović M, Lopičić Z, Šoštarić T. Influence of soil type and
+  physical–chemical properties on uranium sorption and bioavailability.
+  Water Air Soil Pollut 2012;223:135-
+  144.
+
+
+Artificial fertilizer is cheaper than regular fertilizer that also contains long-term nutrients, but also contains Po-210:
+
+
+  Among all carcinogenic substances contained in tobacco smoke, Polonium
+  210 (Po-210), with a half-life of 138 days, is one of the most
+  dangerous, by exerting a devastating, chronic, slow and progressive
+  carcinogenesis activity. The main source of Po-210 in tobacco is
+  represented by fertilizers (polyphosphates) containing radium-226
+  (Ra-222) which decades to plumb 210 (Pb-210). Through the thricomes
+  Pb-210 is concentrated in the tobacco leaves, where it turns to
+  Po-210, which at the cigarette combustion temperature (800-900 degrees
+  C) reaches the gaseous state and it is absorbed by the micro particles
+  released into tobacco smoke. Thus, smoke becomes radioactive in both
+  its gaseous and corpuscular components and reaches the airways, where,
+  particularly at the branches level and together with other substances,
+  it exerts its carcinogenic activity, especially in those subjects with
+  impaired respiratory mucosal clearance. The carcinogenic risk/one year
+  lifetime of a smoker of 20 cigarettes per day is equivalent to that of
+  undertaking 300 chest x-rays. It is calculated that Po-210 may be
+  independently responsible of 4 lung cancers every 10,000 smokers.
+  During cigarette's combustion, tobacco smoke is also released in the
+  air, contributing to serious health risks for those exposed to passive
+  smoke.
+
+",Random,biology.stackexchange.com,biomedical
+90038,"Coronavirus origin could be bat, why this happen while people have been eating bats for centuries?","Sorry for my lack of understanding, Why now, when people been eating bats for centuries? If bats are simply a vector, where does that virus come from?
+",90039,"Bats are reservoirs of many important human pathogens, some are emerging infections (e.g., 2019-NCoV, the coronavirus in the news recently), and some are not (e.g., rabies). 
+
+Contact between humans and bats is certainly not a new phenomena, but there is more required for an emerging infection than a reservoir and a new host. There must be some bridge that allows a virus to cross a previously effective species barrier. For SARS, there was an intervening amplifying host, the palm civet.  We've now had long enough to study the molecular biology, so this is now quite well described:
+
+
+  Once SARS-CoV had jumped from bats to civets, it underwent further mutations in civets. The first K479N mutation allowed SARS-CoV to jump from civets to humans and the second S487T mutation allowed SARS-CoV to transmit from human to human, leading to the severe SARS outbreak in 2002–2003.
+
+
+It may be useful to understand that, as they are RNA viruses, coronaviridae have a high error rate, increasing the rate of mutation. Additionally, making a species jump may allow for novel recombination.
+",Accepted,"Caffeine inhibits the secretion of the antidiuretic hormone (ADH), so it increases diuresis, but this effect is small and transient.
+http://en.citizendium.org/wiki/Vasopressin
+
+Caffeine in amounts up to 400 mg/day (~4 cups of coffee) does not results in net dehydration, since the amount of water lost due to slightly increased diuresis is much smaller than the amount of water in coffee.
+http://www.ncbi.nlm.nih.gov/pubmed/19774754
+
+In some people, caffeine may irritate the bladder and thus trigger more frequent urination, but this is not increased diuresis and the total volume of the urine is not increased.
+",Random,biology.stackexchange.com,biomedical
+90057,How exactly does alcohol solution kill or neutralize viruses?,"To reduce the risk of infection by viruses (including 2019-nCoV) the CDC suggests:
+
+
+Wash your hands often with soap and water for at least 20 seconds. Use an alcohol-based hand sanitizer that contains at least 60% alcohol if soap and water are not available.
+Avoid touching your eyes, nose, and mouth with unwashed hands.
+Avoid close contact with people who are sick.
+Stay home when you are sick.
+Cover your cough or sneeze with a tissue, then throw the tissue in the trash.
+Clean and disinfect frequently touched objects and surfaces.
+
+
+To my knowledge most alcohol-based hand sanitizers use ethanol. In clinical settings sometimes isopropanol is also used.
+
+Question: How exactly do alcohols, especially ethanol and isopropanol provide some disinfecting action against viruses? Are the virus particles simply dissolved? What happens?
+",90085,"Alcohols dissolve lipid bilayers
+
+Many viruses have an outer lipid bilayer. Ethanol lyses cells, and in the same fashion damages membrane-bound viruses by rupturing the bilayer (which is made of ethanol-soluble lipids). 
+
+Alcohols misfold the protein coats of viruses
+
+Additionally, alcohols denature proteins, which misfold in non-aqueous conditions. Some viral surface proteins are important for adhesion and attachment, and misfolding these renders the virus inactive. The total breakdown of viruses is essentially due to the misfolding of their protein coat (the capsid).
+
+The same goes for bacteria
+
+With the additional effect of dehydrating cells
+
+Alcohols substitute the water contents of a tissue and have been as such used as fixatives. Common laboratory examples include methanol and ethanol.
+
+Typically, 70% (140 proof) ethanol is used for bench wiping to kill or inactivate microbes. This includes viruses.
+
+This is all standard, common, easily and readily accessible knowledge. Here's a bonus source.
+",Accepted,"The following is from Biogeography and Speciation Patterns of the Golden Orb Spider Genus Nephila (Araneae: Nephilidae) in Asia, Yong-Chao Su, Yung-Hau Chang, Deborah Smith, Ming-Sheng Zhu, Matjaž Kuntner and I-Min Tso, Zoological Science, 28(1):47-55. 2011., DOI: 10.2108/zsj.28.47 http://www.bioone.org/doi/full/10.2108/zsj.28.47
+
+Spider 1 seems a good match for C in the images below, and Spider 2 matches A and B. So I propose that both spiders are Nephila pilipes but with different color patterns. 
+
+
+
+
+
+
+  Fig. 1. Nephila diversity in Asia and Australia and its extreme sexual size dimorphism: (A–E), N. pilipes; (A–B), female of the common color pattern, Taiwan; (C–D), female of the darker color pattern, Taiwan; (E), male (arrow) in copulatory pose on female, Singapore; (F–G), female N. antipodiana, Singapore; (H), female N. plumipes, Australia; (I–J), female N. clavata, Taiwan. Images by M. Kuntner (www.nephilidae.com).
+
+",Random,biology.stackexchange.com,biomedical
+90058,What are the environmental conditions for SARS-CoV-2 to survive?,"What do we know about the environmental limits for nCoV to survive outside the body? For example, in: 
+
+
+In open air
+On surfaces
+In water
+
+
+What are the limits for temperature, humidity and air pressure, where the virus, can or cannot survive?
+",90075,"Because ""any"" Coronavirus is so dangerous, much research have been done on viruses with similar properties. They are called ""surrogates"". Because nCoV is new, we don't have any studies, so we need to estimate it's behavior from previously studied similar viruses.
+
+Here:
+
+RH   = Relative Humidity. 
+Tr   = Room Temperature
+TGEV = Transmissible Gastroenteritis (surrogate)
+MHV  = Mouse Hepatitis (surrogate)
+
+
+Viral survival for the TGEV/MHV surrogate:
+
+
+on stainless steel:      4°C @ 20% RH:  28 days
+in water/sewage (TGEV):  25°C: 22 days
+in water/sewage (MHV):   25°C: 17 days
+contaminated water is a potential vehicle for exposure if aerosols are generated
+
+
+For airborne Human Coronavirus 229E (HCV/229E):
+
+
+Optimal survival:  6°C @ 50% RH: 
+Poor* survival:     20°C @ ""High"" relative humidity (RH)
+(* ""poor"" in terms of 20°C but varying RH.)
+
+
+For SARS CoV-P9:
+
+
+Serum: 96 h = 4 days
+Sputum &amp; Feces: 96 h = 4 days
+Urine: 72 h = 3 days
+
+
+For SARS-CoV (GVU6109):
+
+
+in diarrheal stool (at low pH): 4 days
+in respiratory/air droplets:  >7  days @ 20°C (Tr)
+in respiratory/air droplets:  >20 days @ 4°C
+
+
+
+  ""The main route of transmission of SARS CoV infection is presumed to be respiratory droplets. However the virus is also detectable in other body fluids and excreta. The stability of the virus at different temperatures and relative humidity on smooth surfaces were studied. The dried virus on smooth surfaces retained its viability for over 5 days at temperatures of 22–25°C and relative humidity of 40–50%, that is, typical air-conditioned environments. However, virus viability was rapidly lost (>3 log10) at higher temperatures and higher relative humidity (e.g., 38°C, and relative humidity of >95%).""
+  
+  ""We and others have reported that infectivity of SARS CoV (SARS coronavirus) was lost after heating at 56°C for 15 minutes but that it was stable for at least 2 days following drying on plastic.""
+
+
+
+
+UPDATE: 2020-03-13
+
+From [7]: 
+
+
+  ""We found that viable virus could be detected in aerosols up to 3 hours 
+  post aerosolization, up to 4 hours on copper, up to 24 hours on 
+  cardboard and up to 2-3 days on plastic and stainless steel. HCoV-19 and 
+  SARS-CoV-1 exhibited similar half-lives in aerosols, with median 
+  estimates around 2.7 hours. Both viruses show relatively long viability 
+  on stainless steel and polypropylene compared to copper or cardboard: 
+  the median half-life estimate for HCoV-19 is around 13 hours on steel 
+  and around 16 hours on polypropylene. Our results indicate that aerosol 
+  and fomite transmission of HCoV-19 is plausible, as the virus can remain 
+  viable in aerosols for multiple hours and on surfaces up to days.""
+
+
+For SARS-CoV-2:
+Experiments were performed @ 40% RH and 21-23°C.
+
+
+Copper (Cu):      4 hours
+Stainless (Fe):   48 hours (2 days)
+Cardboard:        24 hours 
+Plastic:          72 hours (3 days)
+SARS-CoV-2 is most stable on plastic and stainless steel.
+
+
+References:
+
+
+[1] 20xx https://aem.asm.org/content/76/9/2712.short
+[2] 1985 https://www.microbiologyresearch.org/content/journal/jgv/10.1099/0022-1317-66-12-2743
+[3] 2005 https://academic.oup.com/cid/article/41/7/e67/310340
+[4] 2009 https://www.sciencedirect.com/science/article/abs/pii/S0043135409000785
+[5] 2010 https://www.hindawi.com/journals/av/2011/734690/
+[6] 2003 https://www.ncbi.nlm.nih.gov/pubmed/14631830  
+[7] 2020 Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1
+
+",Accepted,"Because the website you link speaks of cancer, they probably go by the rule that a single exposure and even a single photon of UV may be sufficient to cause that one mutation in that one skin cell that will eventually lead to cancer.
+
+In the end, they are right, because mutagens (UV, cigarettes, radiation) do not follow typical toxicological rules. There is no threshold dose of UV that does not cause cancer, as even a single short exposure may do the trick. Obviously, multiple exposures and longer exposures increase the chance. This, as opposed to toxic substances that generally feature a threshold dose. Below this threshold dose they are considered harmless.       
+",Random,biology.stackexchange.com,biomedical
+90081,Why would a 2019-nCoV protein sequence in the NCBI database match a protein submitted in 2018?,"There seems to be a bit of a conspiracy theory brewing over some data in the NCBI database, and I don't have the necessary knowledge to make sense of it.
+
+It basically goes like this:
+
+
+Go to NCBI BLAST
+Click on the big Protein BLAST button
+Enter AVP78033 in the main search box and click BLAST
+Click on the first result that shows a 100% match and click ""See 5 more title(s)"" in the first entry
+
+
+This shows that the search is a complete match for a Bat SARS-like coronavirus protein from a 2018 research paper, for Wuhan seafood market pneumonia virus (which the NCIS site indicates is an alias for 2019-nCoV), and for Bat coronavirus from 29 Jan 2020.
+
+My question is - why would a protein from Bat SARS-like coronavirus and 2019-nCoV be showing up as a perfect match for one another? Does this mean that 2019-nCoV might actually be a previously-discovered coronavirus that very recently started infecting humans? Or could it be that a recently collected sample from Wuhan was mis-identified as 2019-nCoV when it is actually the same coronavirus from the 2018 submission? 
+
+Clicking around the links on that site seem to bring up dozens of similar but different pages that I don't have the knowledge to distinguish, but the Accession column from the search results described above contains a link to this page, which says that it is a provisional refseq and acknowledges that it is identical to the bat coronavirus:
+
+
+  PROVISIONAL REFSEQ: This record has not yet been subject to final
+              NCBI review. The reference sequence is identical to QHD43418.
+              Annotation was added using homology to SARSr-CoV NC_004718.3.
+
+
+Can somebody who actually understands these things please make sense of this?
+",90082,"2019-nCoV is a virus that originated from the bat (at least this is the current hypothesis). It shows 96% squence similarity to the BatCoV RaTG13 sequence (see reference 1), showing its origin.
+
+It still is 87,99% identical to the ""Bat SARS-like coronavirus"", which explains the hit you found and is not unexpected, as these viruses are very closely related (see reference 2). 
+
+These viruses are closely related, so I wouldn't expect too many differences at all. Then envelope proteins can be critical for function/structure of the virus, so mutations there might occur less frequent. And if they occur, I would only expect few changes over time, so with this little time gone, probably no mutation is seen yet. Additionally, due to the redundancy caused by the codon degeneracy, not every mutation in the genomic material translates into changes in the protein.
+
+References:
+
+
+Full-genome evolutionary analysis of the novel corona virus
+(2019-nCoV) rejects the hypothesis of emergence as a result of a
+recent recombination event
+Genomic characterisation and epidemiology of 2019 novel coronavirus:
+implications for virus origins and receptor binding
+
+",Accepted,"You are confused among DNA replication, DNA transcrption, and RNA translation.
+
+First, DNA replication happens during cell division, it create two exactly same daughter DNA.
+
+Second, DNA transcription transcribes DNA sequence into RNA sequence, this RNA sequence may be used to synthesize protein, or RNA itself as signal, etc.
+
+Third, RNA translation is the RNA sequence (codon) recognized by tRNA, and then synthesize protein sequence.
+
+AUG is a codon in the RNA, the is recognized by tRNA, and then start translation. And please remember, DNA use A, G, C, T, but RNA use A, G, C, U, there is no U in DNA. 
+
+For DNA synthesis, why does it need primer? I have another answer for solving your question: https://biology.stackexchange.com/a/40954/17473
+",Random,biology.stackexchange.com,biomedical
+90095,"How does a Coronavirus ""test kit"" work?","A number of countries are using test kits for detecting new cases of nCoV (2019-Coronavirus) and apparently China is running low. 
+
+What exactly is in a nCoV ""Test Kit"" — How does it work?
+
+(Surely they also differ, so in which way do they differ?)
+",90096,"The CDC has made available online its nCoV test kit. Briefly,the kit contains primers and probes for real-time reverse-transcriptase PCR, as well as instructions for appropriate use and (critically) controls and guidelines to avoid false positives and negatives. Kits from different countries may use slightly different primers and probes, though since they are all working from the same sequences and the same principles they should be broadly quite similar. 
+
+Explaining how quantitative PCR works and the details of the primers and probes is out of the scope of this SE. A layman's introduction was written by John Timmer at Ars Technica.
+",Accepted,"Breeding season
+
+Chances to see nests will be higher during breeding season which normally occurs once a year. Eggs will be laid in early May but they will be built in the previous months.
+
+Area
+
+In densely populated urban areas gulls may build their nests on rooftops instead of ground nesting. In the case of New Jersey I found the following brochure: 
+
+https://www.nj.gov/dep/fgw/ensp/pdf/bnb_brochure.pdf
+
+If you mean seagulls as in all Laridae, then you have two members of that family (black skimmer and least tern) in that brochure that actually use NJ's beaches and even have their own designated space for that.
+
+Googling 'seagull rooftop nests' brings a decent amount of pictures of rooftop nests. 'Seagull nests' brings a lot of cliff-placed nests, rooftop and ground nests. I assume the choice depends mostly on food availability and predator population density. I remember in Spain a few years ago there was a big enough problem to appear on local TV news related to seagulls attacking people. They would nest on every roof and attack people that would go out on the balcony with a sandwich.
+
+
+
+Sources:
+
+
+Habitat Selection and Nesting Biology of Roof-Nesting Glaucous-Winged Gulls
+Kees Vermeer, Damian Power and G. E. John Smith
+Colonial Waterbirds
+Vol. 11, No. 2 (1988), pp. 189-201 https://www.jstor.org/stable/1521000?seq=1
+
+",Random,biology.stackexchange.com,biomedical
+90168,How are lipid-coated mRNA-based vaccines transported into cells for expression?,"In CNN's video Scientist says Coronavirus vaccine could be ready by 2021 after about 00:25 'Robin Shattock, the Head of Mucosal Infection and Immunity at Imperial College London' says:
+
+
+  We were able to access the sequence that was published by Chinese scientists and made globally available, which was a tremendous thing to do. And we went from that sequence to identifying part of the sequence that encodes for the surface proteins of the virus. And we’re using that sequence to manufacture our vaccine.
+  
+  We’re using a particular approach where we make a synthetic vaccine based on RNA, so essentially it’s essentially genetic code, we package that in essentially a lipid droplet, and use that to inject in a muscle; it expresses that protein, and the body recognizes that as foreign and it makes protective antibodies.
+
+
+I'm assuming that this is mRNA and so once it reaches the cytoplasm of the vaccine recipients muscle cells it will be expressed and somehow returned to the cells' membrane where it will be recognized as foreign by passing lymphocytes.
+
+Questions:
+
+
+Is this basically correct as far as it goes? 
+If so, what causes the lipid droplet to fuse with muscle (or other) cells in the first place?
+
+",90605,"I can't give an authoritative answer on this because my PhD work was based on mRNA delivery using peptides instead of lipids, but many of the concepts are the same. I also don't have time to provide proper citations, but this is probably too much for a comment.
+
+Anyway, mRNA is a very fragile molecule, it can be broken down extremely quickly in the blood by serum nucleases. Therefore we must protect the mRNA by mixing it with some other chemical, in this case a mixture of positively charged lipids. The positively charged lipids are attracted to the negatively charged phosphate backbone of the mRNA, and form a nanoparticle trapping the mRNA inside and hiding it from the nucleases. The lipids are often, but not always, PEGylated, which means that a molecule of polyethylene glycol (PEG) is attached to the lipid. The PEG groups form a layer on the outer surface of the nanoparticle that helps prevent protein binding.
+
+These mRNA lipid nanoparticles are then injected into a patient. This will probably be an intramuscular injection so that the particles are most likely to be taken up by muscle cells. The exact mechanism explaining why lipid nanoparticles are attracted to cells isn't entirely clear, but it's likely a combination of electrostatic attraction between the positively charged nanoparticle and the negatively charged cell membrane and proteins that bind to the nanoparticle and are then recognized by receptors on the cell surface.
+
+After the particle is taken up by a cell it is usually trapped inside a membrane-bound structure called an endosome. As the endosome matures it is acidified, and as the pH drops from about 7 to about 5.5 the nanoparticle is disrupted. The lipids that made up the nanoparticle can merge with the lipids that make up the endosomal membrane, disrupting that membrane and breaking open the endosome, allowing the mRNA to escape into the cytoplasm.
+
+Once in the cytoplasm the mRNA will find a ribosome and produce protein. Just like you said, the protein in this case will be membrane bound and expressed on the outer surface of the cells for eventual immune recognition.
+",Accepted,"Imagine if an organism lived forever. How could it adapt to changing environmental conditions, from ice ages to mountain building events and changes in atmospheric conditions?
+
+That's my personal theory to explain why living things must die. A species' motto could be ""Adapt or die,"" and no individual can do all that adapting.
+",Random,biology.stackexchange.com,biomedical
+90287,Why would it be dangerous to consume cooked bats even if they are linked to viruses?,"(Not sure if this is the right SE for this question. I'm asking this here, because I'm looking for a biological answer, if one exists.)
+
+This (potentially very naive) question is inspired by this news article: Bats for sale at Indonesia's wildlife market despite virus warning
+
+
+  Bats, rats and snakes are still being sold at an Indonesian market known for its wildlife offerings, despite a government request to take them off the menu over fears of a link to the deadly coronavirus.
+
+
+Why would the government request to take the meat of these animals off the market? Even if they're linked to the coronavirus, the virus presumably can be killed by cooking the meat prior to consumption. After all, protein denatures well before 100 degrees celsius, and once it denatures the organism should die. Conceivably the virus could affect the handlers of these animals prior to their being cooked, but not the consumers.
+
+Some paragraphs later in the article illustrate my confusion:
+
+
+  Restaurateur Lince Rengkuan -- who serves bats including their heads and wings stewed in coconut milk and spices -- says the secret is preparation.
+  
+  ""If you don't cook the bat well then of course it can be dangerous,"" she said.
+  
+  ""We cook it thoroughly and so far the number of customers hasn't gone down at all.""
+
+
+Which is effectively what I've been thinking, but:
+
+
+  ""We're also urging people not to consume meat from animals suspected to be carriers of a fatal disease,"" said Ruddy Lengkong, head of the area's government trade and industry agency.
+
+
+How are these two seemingly-contradictory positions reconciled?
+",90318,"Restaurateur Lince Rengkuan is correct - once the bat meat is cooked the coronavirus will die, and the meat is safe to consume.
+
+The Indonesian government isn't imposing restrictions for biological reasons, but for other reasons; these other reasons are out of scope of this SE.
+",Accepted,"The answer is incomplete dominance.
+
+It can't be codominance, because codiminance involves both phenotypes being expressed in different parts of the organism: you would end up with red and yellow spotted flowers.
+
+It obviously isn't complete dominance, because the red x yellow cross produces orange flowers.
+
+Knowing that it has to be incomplete dominance or multiple alleles, we can examine what we would expect to see in either of these cases.
+
+Multiple alleles
+
+In the case of multiple alleles, each individual plant has two alleles out of a possible three. These alleles will also express some sort of dominance pattern over each other. Let's say, hypothetically, that the dominance pattern goes Red > Orange > Yellow. 
+
+In this case, all of the yellow flowers would have a genotype of yellow/yellow. The orange flowers could be orange/yellow or orange/orange. Red flowers can be red/orange, red/yellow, or red/red. When performing the crosses between red and yellow, you would then expect some mixture of offspring, probably mostly red. If the dominance pattern was different, you would still expect to see some mixture of offspring. But instead we see only orange offspring.
+
+Incomplete dominance
+
+In this scenario, homozygote red individuals have a red phenotype, homozygote yellow individuals have a yellow phenotype, and heterozygous individuals have the mixed orange phenotype.
+
+In this scenario, you would expect red x red to produce only red offspring, and the same goes for yellow x yellow, because both parents have to be homozygous. Orange x orange would produce offspring in a genotype ratio of 1:2:1, as is the case when you self-cross heterozygous organisms. Orange x red and orange x yellow will produce offspring in a 1:1 genotype ratio, as is the case when you cross a heterozygote with a homozygote. These are exactly the patterns we see, so we can conclude that the answer is incomplete dominance.
+",Random,biology.stackexchange.com,biomedical
+90473,how the coronavirus was distinguished?,"I have read a lot about the outbreak of the coronavirus, I know that in january scientists had already sequenced the viral genome.
+
+How was the virus identified prior to the sequencing
+
+Given that viruses are not like germs that you can see and distinguish readily in microscope, how could scientists know that there was something new about the new disease and how could they purify the pathogen that cause that disease without knowing what it is and without knowing its genetic code?
+
+Where can I find information about procedures that are used to identify new viral pathogens?
+
+Given that there is a group of people with suspicious desease, what are the laboratory procedures used to eliminate known pathogens and how you discover that you have a novel virus without knowing its genetic sequence (and without the ability to extract it - as far as I know you can not isolate virus particle with tweezers...).
+
+Thank you!    
+",90476,"This is basic epidemiology. When medical professionals notice that a group of people with some characteristic in common, are being seen for a similar disease, they ask if there's a connection. In this case, several people in Wuhan were diagnosed with severe pneumonia, and the doctors noticed that they worked in the same location. 
+
+
+  Three adult patients presented with severe pneumonia and were admitted to a hospital in Wuhan on December 27, 2019. ... Her occupation was retailer in the seafood wholesale market. ... He had been a frequent visitor to the seafood wholesale market.
+
+
+--A Novel Coronavirus from Patients with Pneumonia in China, 2019
+
+You're more likely to follow up when the disease is unusual or severe, and when the connecting factor is unusual or suspicious. In this case, the severe pneumonia was presumably unexpected, and live animal markets always have potential for disease transmission. 
+
+(In fact, it's quite possible that the virus had been circulating in the region for weeks before this cluster was noticed, and that previous cases had not been surprising enough to trigger the research needed to identify a new virus; though it's also likely that the medical personnel in Wuhan had noticed that there were an usually high number of pneumonia cases and were already looking for a connection.)
+
+See also the answers to How did scientists discover HIV?. Old-fashioned epidemiology is always critical.
+
+The same article explains how the virus was sequenced:
+
+
+  Bronchoalveolar-lavage fluid samples were collected in sterile cups to which virus transport medium was added. ... RNA extracted from bronchoalveolar-lavage fluid and culture supernatants was used as a template to clone and sequence the genome. We used a combination of Illumina sequencing and nanopore sequencing to characterize the virus genome. 
+
+
+And isolated:
+
+
+  ... supernatant from bronchoalveolar-lavage fluid samples was inoculated onto the apical surface of the cell cultures. ...  After three passages, apical samples and human airway epithelial cells were prepared for transmission electron microscopy. ... 
+
+
+So briefly, they took patient samples, grew them on cultured cells, used electron microscopy to check the kind of virus. They sequenced fluid (not cells, since the virus would be secreted into the fluid, making it a relatively pure source of virus RNA) and then sequenced using a standard high-throughput sequencing approach; knowing the likely kind of virus would make this easier but isn't essential. There would have been lots of human RNA in the sequence, but it's easy to bioinformatically separate that out and limit your analysis to the viral sequences. The virus isolate was also not essential for the identification; knowing the sequence is the critical information today. But having a virus isolate certainly makes all the subsequent work much easier.
+
+This is pretty standard modern molecular biology, not an esoteric skill.
+",Accepted,"Competitive inhibitor competes for the active site. Therefore it will interfere with the binding of the substrate thereby increasing the apparent KM. 
+
+A strictly non-competitive inhibitor does not compete for the active site. It however inhibits the catalysis by reducing the available molecules of active enzyme, E0 (if it is a perfect inhibitor), thereby lowering the Vmax.
+
+There can be mixed inhibitors too and there can be different kinds of mixed inhibition. For example an inhibitor that interferes with catalysis and can also compete for the active site. 
+
+Depending on how you define KM, a non-competitive inhibitor may or may not change it. If such inhibitor can bind to the enzyme at non-active site and reduce its kcat, it changes the KM as well as Vmax in case of Briggs-Haldane kinetics.
+",Random,biology.stackexchange.com,biomedical
+90494,What is the size (diameter) of the SARS-CoV-2 virus?,"You can easily find a lot of pictures of the SARS-CoV-2 virus. But although it should be trivial for an electron microscope to measure the size, I am not able to find accurate size information.
+
+What is the size (diameter) of the SARS-CoV-2 virus?
+(Why does some virus particles seem to have a different size?) 
+",90496,"
+  Electron micrographs of negative-stained 2019-nCoV particles were generally spherical with some pleomorphism (Figure 3). Diameter varied from about 60 to 140 nm. Virus particles had quite distinctive spikes, about 9 to 12 nm, and gave virions the appearance of a solar corona.
+
+
+--A Novel Coronavirus from Patients with Pneumonia in China, 2019
+
+Figure 3 from that article:
+
+
+",Accepted,"There are various selection pressures that may lead to sex being more or less harmful. I don't think there is an easy way to summarize these selection pressures other than just going through load of examples. Here is an attempt to give you some notions of why can sex be pleasurable and/or painful. Note that I do not consider myself particularly knowledgeable in this field.
+
+Why could it be pleasurable
+
+We tend to seek for positive experiences. If we like sex, we have more sex. If we have more sex, we are more likely to have more offspring. Hence, the trait ""liking having sex"" is positively correlated with ""fitness"".
+
+Why could it be harmful
+
+Dick pics
+
+In many species, the penis has spikes and stuff and is most definitely hurting the females. Here is a Drosophila penis
+
+
+
+And here are penises of two dragonfly species
+
+
+
+Here is a feline penis
+
+
+
+By the way, according to wikipedia (could not find peer reviewed paper on the subject so take this with a grain of salt), some humans still have on remnants of those barbs you can still see on many feline penises left from our ancestor. They are called hirsuties coronae glandis. Here is a perfectly healthy (but I would tend to consider quite extreme) example of hirsuties coronae glandis
+
+
+
+Some theory
+
+There is a lot to say here and I only want to say a few words and hopefully you will go get more information by yourself.
+
+So why do these species evolve these fancy and scary ""armed"" penises. In many species, it is a small investment for a male to make a baby (just mate and the job is done) but a big investment for the female (producing the egg, eventually even parental care, ...). Because the sex-ratio is always (assuming no group selection) pushed toward 0.5 (see this post and Fisher's principle), it happens that males end up with lots of free time looking for females (see Why are female not competitive for reproduction like males? and Bateman's principle). You might also want to read about sexual conflict.
+
+Why would such penis evolve?
+
+The reason vary among species. Here is a non-exclusive, non-exhaustive list of reasons:
+
+
+In some species (e.g. nudibranch, damselflies)The goal is to remove the sperm from an eventual previous male so as to reduce sperm competition (Cordero-Riviera, 2016).
+In some species, the goal is to damage the female reproductive track so that she will not subsequently mate with other males hence reducing sperm competition ().
+In some species, the male can even leave toxic products in the female (Chapman et al., 1995).
+In some species, females get severly harrassed by males for mating and rape is not unusual (e.g Drosophila). Some penile barbs and spikes can be used to get the female stuck in place. To avoid that the female can escape before the sperm has been delivered ()! That being said, in some circumstance such use of spiky penis might be beneficial to the female too. This non-peer reviewed article may bring some light.
+In some species, the male can pierce through the female abdomen to deliver its sperm. This is called traumatic insemination.
+
+
+In a classical experiment, Rice 1996 shows that there is an arm race between males and females. Race in which males increases their negative impact on female's reproductive organs and females protect themselves from it. The paper is free, is short, easy to read and has a pretty amazing experimental design. It is worth having a look at it.
+
+Feeding the babies via the mother
+
+I just want to point with other examples that sex does not have to be romantic in many species. In some species, the female eats the male after sex or even while having sex. To what I have heard (; please be cautious with this information), in some mantis prey, the male does not even release his sperm before the female has cut the male's head off. Why would the male do that?
+
+A male that let himself get eaten by the females ensures that the female has lots of energy for taking care of her babies. Hence a male may increase his fitness by sacrificing himself to his partner.
+",Random,biology.stackexchange.com,biomedical
+90607,Does the genetic sequence of SARS-CoV-2 end with 33 A's?,"Looking at the DNA (or RNA?) sequence of the Covid-19 virus here: https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3
+
+I notice it ends in 33 a's. Does the virus really look like that, or is it some artifact of the sequencing process, or some sort of padding to round out numbers?
+
+Here's the last few lines:
+
+29761 acagtgaaca atgctaggga gagctgccta tatggaagag ccctaatgtg taaaattaat
+29821 tttagtagtg ctatccccat gtgattttaa tagcttctta ggagaatgac aaaaaaaaaa
+29881 aaaaaaaaaa aaaaaaaaaa aaa
+
+",90608,"This is a poly(A) tail, which is a feature found in the majority of eukaryotic RNAs (especially mRNA) and is also not uncommon in RNA viruses (which essentially mimic endogenous mRNA for their own replication). As with mRNA, this poly(A) tail in coronaviruses is bound by poly(A) binding protein in the cytoplasm [1], which is involved in translation initiation. In coronaviruses, this poly(A) tail is also necessary for replication independent of its role in translation [2]. 
+
+[1] Lin Y-J, Liao C-L, Lai MM. 1994. Identification of the cis-acting signal for minus-strand RNA synthesis of a murine coronavirus: implications for the role of minus-strand RNA in RNA replication and transcription. J Virol 68(12):8131-8140.
+
+[2] Spagnolo JF, Hogue BG. 2000. Host protein interactions with the 3′ end of bovine coronavirus RNA and the requirement of the poly (A) tail for coronavirus defective genome replication. J Virol 74(11):5053-5065.
+",Accepted,"The answer is in the slides you provided a link to. The key fact is that Craig &amp; Andy did careful controls to show that it was the presence of dsRNA in both the sense control, and in the anti-sense experimental sample that was responsible for the RNAi-mediated knock-down.  Actually, Ken Kemphues showed this earlier in a Nature paper (the control also knocked down gene expression) but did not pursue the mechanism.
+
+Therefore, I infer that the transgenic gene expression construct introduced into the petunias must also give rise to dsRNA. I am less familiar with the consequences of introducing foreign DNA into a plant cell (e.g., does a single copy become integrated, multiple copies?, is it maintained extrachromosomally?)
+",Random,biology.stackexchange.com,biomedical
+90636,"Is COVID-19 claimed to get less deadly over time? If so, why?","From a TV news report of a press conference from (I think) the German Robert Koch Institute, I remember hearing an expert declare that he was expecting COVID-19 to get less deadly over time.  Unfortunately, I don't know what press conference it was (I'm not sure if it was the Robert Koch Institute — it might also have been the Charité university hospital) and cannot find such a stated expectation on the internet.
+
+Why would an expert express this expectation?
+
+Is it because we're heading toward summer (at least where most COVID-19 cases have been reported), or is it a standard pattern, perhaps either due to people's immune systems or due to the virus evolving and becoming weaker? 
+",90672,"While the data are much too sparse and noisy to give an answer about what is happening to COVID-19's virulence (the technical term for the ""deadliness"" of an infectious disease), or to forecast what will happen to its virulence in the future, there are indeed theoretical reasons that one might expect the virulence to decline in the future.
+
+There is an entire theoretical literature on the evolution of virulence (e.g. see Read 1994, or see Wikipedia); Robert May and Paul Ewald are two researchers who contributed seminal ideas. The basic idea is that infectious 'organisms' (including viruses) may face a tradeoff between their ability to produce lots of infectious particles (e.g. by replicating faster within the host) and the length of time that they can stay in the host before it dies or activates immune defenses sufficiently to end the infection. In this case, some intermediate level of virulence may evolve.
+
+Evolution of virulence in ways predicted by the theory has been observed in the real world in such diseases as myxomatosis (a viral disease of rabbits). The theory has also been suggested to apply in HIV and syphilis.
+
+The actual forecast can depend on many details of the biology and epidemiology of a particular organism. If COVID-19 happened to have a higher-than-optimal virulence in humans at the time of emergence, we could expect its virulence to decline over time. It could also decline if epidemic control was applied in such as way as to differentially affect more-virulent strains; this has been suggested by Tang et al. on the basis of the pattern of mutations in different strains, although their logic has also been criticized on Twitter by an expert in genetic epidemiology, and now by a more official rebuttal by McLean et al. (with some back-and-forth discussion between the authors and critics).
+
+This explanation doesn't include the possibility of host evolution, which is theoretically important but not really relevant to COVID-19 &mdash; it would only happen over many generations, and only if the epidemic was so severe that it was a significant overall cause of death or failure to reproduce ...
+
+
+
+
+Tang et al. ""On the origin and continuing evolution of SARS-CoV-2"", National Science Review, nwaa036, https://doi.org/10.1093/nsr/nwaa036 .
+Read, Andrew F. ""The evolution of virulence."" Trends in microbiology 2.3 (1994): 73-76.
+
+",Accepted,"I would like to add to the great answer by AliceD with my own experiment.  I wish to add this because the results, while intellectually natural, were intuitively fascinating, and because my sample size is tiny (read: N=1), and I'd love to have others go out and repeat the experiment.
+
+I don't quite show that you can see with your ears, but I do think it shows that you can hear with your eyes.  (Or, more formally, we fuse our senses in a remarkable way)
+
+The bill of materials is daunting:
+
+
+Two spoons
+Willing test subject
+
+
+In my case, the subject was my girlfriend at the time.
+
+It is known that we use spectral effects to determine the elevation angle of a sound.  Our ears and our shoulders are known to shape the sound, emphasizing some frequencies and muting others.  Of course, this process is impossible to do if you don't know what the sound was ""originally.""  If you don't know what the sound was as it reached you, you can't figure out how much the ears have colored it.
+
+For this experiment I picked two spoons, and verbally described what I was going to do.  I was going to click the spoons in various places and have her reach for them.  I intentionally did not click the spoons together in this demonstration because I did not want her to get to hear the spoons until the experiment started.
+
+I first asked her to close her eyes.  I clicked the spoons in various places, and she identified which direction she thought it came from.  She was reliably accurate in left/right direction, because she could hear the time delays between the sound hitting her left and right ear.  However, her elevation angle was rather random.  There did not appear to be any pattern at all to it.
+
+Then I asked her to open her eyes, and do a very boring version of this experiment.  With her eyes open, she of course was able to point to the clicking spoons 100% of the time.  (This was actually the hardest part, because it seems absurd to the test subject.  They start to think it's a trick).
+
+Then, I had her close her eyes again, and repeat the experiment.  The results?  She was dead on every time.  Didn't miss a single one, both azimuth and elevation.
+
+So what do I claim happened?  When we started the experiment, she did not know the frequency spectra of the spoons clicking.  As such, she could not effectively back out what transform her ears and shoulders were applying, and could not figure out elevation angles.  She could make some guesses, as a human that has heard things clacking together, but that was insufficient to accomplish the task.
+
+In the boring second phase, she could now fuse the information she got from her eyes in with that from her ears.  Now she could determine what angle the sound was coming from with her eyes, figure out what the transform of her ears/shoulders should be, and back out what the ""true"" sound of the spoons was.
+
+In the third phase, she now knew the ""true"" sound of the spoons, so whenever soundwaves hit her ears, she could use that knowledge to figure out what transform her ears/shoulders must have been applying, and figure out angles.
+
+I used this to argue that we can hear with our eyes, but it might be more effective to say that the brain doesn't pay as much attention to the division between the 5 senses as we do when we talk about our sensory experience.  As far as it is concerned, it's all simply neural stimuli.  It will fuse these into one coherent image, and that is what really matters.
+",Random,biology.stackexchange.com,biomedical
+90718,How many times has SARS-CoV-2 mutated?,"According to 
+
+Coronavirus has mutated at least once
+
+
+  The novel coronavirus that has infected thousands of people across the
+  world may have mutated at least once — meaning there may be two
+  different types of the virus causing illnesses, a new study conducted
+  by Chinese scientists suggests.
+  
+  Scientists with Peking University’s School of Life Sciences and the
+  Institut Pasteur of Shanghai in a preliminary study found that one
+  strain — type “L” —  of the virus was more aggressive and accounted
+  for about 70 percent of the strains analyzed. The second — type “S” —
+  was less aggressive and accounted for about 30 percent of analyzed
+  strains.
+
+
+But also several webpages theorized the virus has mutated before passing from animals to humans. 
+
+This page What we know about the Wuhan virus says
+
+
+  This virus belongs to a family of viruses known as coronaviruses.
+  Named for the crown-like spikes on their surfaces, they infect mostly
+  bats, pigs and small mammals. But they mutate easily and can jump from
+  animals to humans
+
+
+and
+
+
+  Where did the new coronavirus come from? The new virus likely came
+  originally from bats, scientists say. It isn’t known exactly where or
+  how it jumped to humans, though. Viruses from bats often infect
+  another mammal first and then mutate to become more transmissible to
+  humans.
+
+
+though
+
+
+  Coronaviruses can also jump directly to humans, without mutating or
+  passing through an intermediate species.
+
+
+Is something more known about this? Is it possible the virus has mutated twice in a period of time of months?
+",90720,"This question makes a number of incorrect assumptions and I don't have time to correct them. The short answer is that the virus has mutated probably hundreds of times since it entered humans in late 2019. 
+
+The lower figure on the NextStrain.org ncov page, ""Diversity"", shows the known mutations that have been identified so far. As I look at it now, there are maybe 100-200 shown there, but that will change daily and I can't be bothered to count them.
+
+Is it possible the virus has mutated twice in a period of time of months? Of course it is. That's what we expect from coronaviruses. It would be shocking if it did not. 
+
+The default assumption (based on a vast amount of experience with coronaviruses and many other viruses) is that these mutations are neutral and do not affect the virus in terms of fitness, virulence, or transmissibility in any way; they are occasionally useful in tracking sources, but unless you have spent a lot of time looking at virus phylogenetic trees for several years, your interpretations of these mutations are almost certainly wrong.
+
+An example of people making claims based on unfamiliarity with virus evolution is the ""two different types of the virus"" claim. That claim is addressed by MacLean and colleagues in their Response to “On the origin and continuing evolution of SARS-CoV-2”. Summary:
+
+
+  Two of the key claims made by this paper appear to have been reached by misunderstanding and over-interpretation of the SARS-CoV-2 data, with an additional analysis suffering from methodological limitations
+
+",Accepted,"Looks like the nymph of a masked hunter. 
+They carmouflage in dust and sand.
+
+
+",Random,biology.stackexchange.com,biomedical
+90732,Human Immune Response to COVID-19 Virus,"I have tried to find an answer to this but have not found anything after multiple attempts.
+
+The question on the table is if the human body is able to produce an immune response to the COVID-19 virus if one has been exposed? This would apply most specifically to persons that have been tested positive but have ""survived"" (i.e. not having succumbed to the serious lung complications that have caused deaths for some persons). 
+
+A follow on question that comes from this is if the human body is able to mount a suitable defense does the current practice of keeping people in quarantine for two weeks allow for this defense to reach full effectiveness? 
+",90734,"We probably won't really know for certain until we have time to gather more data from survivors. However, infection with existing coronaviruses (including SARS-CoV, genetically very similar to the COVID-19 virus SARS-CoV-2; ref. https://www.nature.com/articles/s41564-020-0695-z) suggests that those who are infected and survive may develop temporary immunity (ref. https://www.statnews.com/2020/02/04/two-scenarios-if-new-coronavirus-isnt-contained/):
+
+
+  The toll of a seasonal-flu-like coronavirus also depends on immunity — which is also scientifically uncertain. Exposure to the four endemic coronaviruses produces immunity that lasts longer than that to influenza, Webby said, but not permanent immunity. Like respiratory syncytial virus, which can re-infect adults who had it in childhood, coronavirus immunity wanes.
+  
+  “Everyone, by the time they reach adulthood, should have some immunity to some coronavirus,” said Tim Sheahan, a coronavirus researcher at University of North Carolina’s Gillings School of Global Public Health. But because it doesn’t last, older people can get reinfected. The elderly also have a higher death rate from coronaviruses such as SARS and MERS, a pattern 2019-nCoV is following.
+  
+  “There is some evidence that people can be reinfected with the four coronaviruses and that there is no long-lasting immunity,” Dr. Susan Kline, an infectious disease specialist at of the University of Minnesota. “Like rhinoviruses [which cause the common cold], you could be infected multiple times over your life. You can mount an antibody response, but it wanes, so on subsequent exposure you don’t have protection.” Subsequent infections often produce milder illness, however.
+
+
+It might also be possible that someone was infected with two different strains of SARS-CoV-2 and did not develop immunity from the first infection. But it could have also been a continuation of the first infection, or testing error. Without virus sequence data, it was not possible to determine what happened for certain (ref. https://www.wired.com/story/did-a-woman-get-coronavirus-twice-scientists-are-skeptical/):
+
+
+  What could be worse than getting the pneumonia-like illness now known as Covid-19? Getting it twice.
+  
+  That’s what Japanese government officials say may have happened to a female tour bus guide in Osaka. The woman was first diagnosed with Covid-19 in late January, according to a statement released by Osaka’s prefectural government Wednesday. She was discharged shortly after, once her symptoms had improved. A subsequent test came back negative for the virus. Three weeks later she returned with a sore throat and chest pain and tested again. For a second time, she tested positive for Covid-19.
+  
+  News reports detailing the case raised the possibility that people may not be developing immunity to the new coronavirus, even after they’ve recovered. But several infectious disease specialists say there’s not enough data to support that conclusion. Another possibility is that the virus subsided and flared up again. (Some viruses tend to do that.) Or the test was simply wrong.
+
+
+If someone was infected twice, comparing the genomic sequences of the virus over time would have helped determine that with more certainty.
+",Accepted,"Macaque monkeys seem to develop immunity. If they try to reinfect the monkeys 28 days after the first time they are infected with SARS-CoV-2, same strain both times, they do not get sick.
+
+https://www.livescience.com/monkeys-cannot-get-reinfected-with-coronavirus-study.html
+
+(Not a link to the actual study.)
+",Bad Answers,biology.stackexchange.com,biomedical
