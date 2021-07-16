@@ -11,7 +11,7 @@ flow = (
         uses="jinahub+docker://TransformerTorchEncoder",
         name="encoder",
         override_with={
-            "pretrained_model_or_path": "sentence-transformers/msmarco-distilbert-base-v3"
+            "pretrained_model_name_or_path": "sentence-transformers/msmarco-distilbert-base-v3"
         },
     )
     .add(
