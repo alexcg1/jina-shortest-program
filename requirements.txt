@@ -1,1 +1,3 @@
-jina==2.0
+jina[http,hub,standard]==2.0
+git+https://github.com/jina-ai/jina-commons
+git+https://github.com/jina-ai/executor-indexers.git@feat-memmapindexer
