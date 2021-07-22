@@ -5,7 +5,7 @@
 
 ## WARNING
 
-**[`shortest.py`](./shortest.py) is potentially unsafe**. This is because in order to cram everything into one line we have to use some dodgy hackery, namely [the rather dangerous `exec()` function](https://blog.finxter.com/python-exec/). This could mean a user gives it malicious input like:
+**[`stupid.py`](./stupid.py) is potentially unsafe**. This is because in order to cram everything into one line we have to use some dodgy hackery, namely [the rather dangerous `exec()` function](https://blog.finxter.com/python-exec/). This could mean a user gives it malicious input like:
 
 ```
 import os; os.system('rm -rf ~')
